@@ -1,3 +1,3 @@
 # aaditagi-demo
-This Is My First Repository
-Author- Aditya Tyai
+This Is My First git Repository
+Author- Aditya Tyagi
